@@ -13,10 +13,7 @@
 
       Permite generar un archivo de audio de forma automática usando la información almacenada en un archivo *.matf (MusicApp Text File).*
 2. Al elegir las opciones 'A' o 'T', MusicApp te pedirá el nombre de la obra y su tempo (Ver ["Introducción del Tempo"](#tempo)). Tras esto, el programa te guiará para que insertes el nombre de cada nota y su duración correspondiente, de forma lineal (Ver ["Introducción de Notas"](#notas)).
-
-    Al elegir la opción 'G', solo deberás escribir la ruta donde se encuentra el archivo *.matf*.
-4. Al finalizar el proceso, el programa lanzará un mensaje notificando que el archivo ha sido guardado correctamente.
-5. Tras guardar un archivo, el programa te da la opción de crear un nuevo archivo o de escribir F para finalizar el programa.
+opción de crear un nuevo archivo o de escribir F para finalizar el programa.
 
 <a name="tempo"></a>
 ## Introducción del Tempo
